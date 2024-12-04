@@ -88,9 +88,6 @@
   <a href="https://www.leetcode.com/subulraza" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SubulRaza" height="30" width="40" />
   </a>
-</p>
-'s Stats](https://github-readme-stats.vercel.app/api?username=Subulzaidi&theme=radical&show_icons=true&hide_border=true&count_private=true)
-</p>
 
 ### 🛠️ Technologies & Tools:
 <p align="center">
