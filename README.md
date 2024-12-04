@@ -44,16 +44,6 @@
 
 ---
 
-### 🔥 **Recent Activity & Contributions:**
-
-<p align="center">
-  <a href="https://github.com/SubulRaza">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubulRaza&bg_color=ffffff&color=68a4f4&line=68a4f4&point=fc991e&area=true&hide_border=true" alt="SubulRaza's Activity Graph"/>
-  </a>
-</p>
-
----
-
 ### 🌐 **Find Me Online:**
 <p align="center">
   <a href="https://twitter.com/SubulRaza" target="blank">
